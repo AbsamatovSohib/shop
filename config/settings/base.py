@@ -74,7 +74,7 @@ THIRD_PARTY_APPS = [
     "allauth",
     "allauth.account",
     "allauth.socialaccount",
-    "anymail",
+    # "anymail",
     "drf_spectacular",
     "django_celery_beat",
     'django_filters',
